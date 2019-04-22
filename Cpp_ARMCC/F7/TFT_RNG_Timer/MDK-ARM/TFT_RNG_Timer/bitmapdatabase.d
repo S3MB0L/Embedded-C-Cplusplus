@@ -1,0 +1,9 @@
+tft_rng_timer\bitmapdatabase.o: ../touchgfx/generated/images/src/bitmapdatabase.cpp
+tft_rng_timer\bitmapdatabase.o: ../middlewares/st/touchgfx/touchgfx/framework/include/touchgfx/Bitmap.hpp
+tft_rng_timer\bitmapdatabase.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\cassert
+tft_rng_timer\bitmapdatabase.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+tft_rng_timer\bitmapdatabase.o: ../middlewares/st/touchgfx/touchgfx/framework/include/touchgfx/hal/Types.hpp
+tft_rng_timer\bitmapdatabase.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tft_rng_timer\bitmapdatabase.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+tft_rng_timer\bitmapdatabase.o: ../middlewares/st/touchgfx/touchgfx/framework/include/touchgfx/hal/Config.hpp
+tft_rng_timer\bitmapdatabase.o: ../TouchGFX/generated/images/include/BitmapDatabase.hpp
